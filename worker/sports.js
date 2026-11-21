@@ -1,9 +1,14 @@
 const sports = [
-  'Tarik Tali', 'Lari Dalam Guni', 'Baling Selipar', 'Congkak',
-  'Batu Seremban', 'Galah Panjang', 'Sepak Raga Bulatan', 'Baling Tin',
-  'Isi Air Dalam Botol', 'Lari Bawa Telur dalam Sudu', 'Terompah Gergasi',
-  'Kepit Belon Berpasangan', 'Esports PUBG Mobile', 'Esports eFootball Mobile',
-  'Memancing', 'Menyuluh Sotong', 'Perbarisan',
+  'Bola Jaring',
+  'Gasing Pantai',
+  'Esports',
+  'Bola Tampar Pantai',
+  'Sepak Raga Bulatan',
+  'Panjat Tiang Licin',
+  'Umang Race',
+  'Mewarna',
+  'Gubahan Sirih',
+  'Merambat',
 ];
 
 const carnivalDays = ['2027-01-30', '2027-01-31', '2027-02-01'];
